@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Blockchain Engineer working on simplifying on-chain UX and account abstraction at [Biconomy](https://biconomy.io/). Solidity, Yul and Typescript.
 
- [![Twitter Badge](https://img.shields.io/badge/-@0xlivingrock-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xlivingrock)](https://twitter.com/0xlivingrock) [![Linkedin Badge](https://img.shields.io/badge/-chirag-titiya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-t-75110473/)](https://www.linkedin.com/in/chirag-t-75110473/)
+ [![Twitter Badge](https://img.shields.io/badge/-@0xlivingrock-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xlivingrock)](https://twitter.com/0xlivingrock) [![Linkedin Badge](https://img.shields.io/badge/-chirag-t-75110473-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-t-75110473/)](https://www.linkedin.com/in/chirag-t-75110473/)
 
 ### proof of work
 
