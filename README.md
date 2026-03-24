@@ -8,7 +8,7 @@
 ---
 
 ### About Me  
-Blockchain Engineer working on simplifying on-chain UX and account abstraction at [Biconomy](https://biconomy.io/). Skilled in **Solidity**, **Yul**, and **TypeScript**.
+Blockchain Engineer working on simplifying on-chain UX and account abstraction at (currently) [Startale](https://startale.com/)  (ex) [Biconomy](https://biconomy.io/). Skilled in **Solidity**, **Yul**, and **TypeScript**.
 
 [![Twitter Badge](https://img.shields.io/badge/-@0xlivingrock-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/0xlivingrock)](https://twitter.com/0xlivingrock) 
 [![LinkedIn Badge](https://img.shields.io/badge/-chirag-t-75110473-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirag-t-75110473/)](https://www.linkedin.com/in/chirag-t-75110473/)
